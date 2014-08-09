@@ -1,0 +1,282 @@
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.exe
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.pdb
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.xml
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmMain.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.Resources.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.read.1.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.exe
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.xml
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.pdb
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmUser.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPOS.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmlogin.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmCreatePurchase.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmCritical.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmDeffective.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmInventory.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmNewSupplier.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPhysicalCount.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductDiscount.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductPricingView.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProducts.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductSupplier.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProfit.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseConfirmation.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseIDView.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSales.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSalesReturn.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSetExpiration.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplierPO.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSuppliers.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmVat.resources
+\\psf\Home\Documents\Files\School Files\Thesis\Wins Pharmacy\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.exe.config
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.exe.config
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.exe
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.xml
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.pdb
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmCritical.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmInventory.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmLogIn.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPOS.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductPricingView.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProducts.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductSupplier.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseConfirmation.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseIDView.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSalesReturn.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplierPO.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmVat.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.Resources.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.read.1.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmMain.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmAddCategory.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmGenerateCode.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPassChange.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseOrder.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplier.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmUsers.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmUsersLog.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductPricing.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductsView.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSalesReturnsLogs.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmFastandSlow.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmReportsTab.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.exe
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.pdb
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.xml
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductsView2.resources
+D:\System\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.exe.config
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.exe
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.xml
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.pdb
+D:\System\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.exe
+D:\System\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.pdb
+D:\System\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.xml
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.vbprojResolveAssemblyReference.cache
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmAddCategory.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmCritical.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmFastandSlow.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmGenerateCode.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmInventory.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmLogIn.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmMain.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPassChange.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductDiscount.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductPricing.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductPricingView.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProducts.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductsView.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductsView2.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseConfirmation.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductSupplier.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProfit.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseIDView.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseOrder.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmQuantity.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmReportsTab.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmReportView.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSalesReturn.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSalesReturnsLogs.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSetExpiration.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplier.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplierPO.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmUsers.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmUsersLog.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmVat.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.Resources.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPOS.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.vbproj.GenerateResource.Cache
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmViewReports.resources
+D:\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmQTY.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmQTY.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmViewReports.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmExpire.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPassword.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSeniorClient.resources
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.626.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.804.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.822.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.942.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.975.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1107.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1184.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1320.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1373.tlog
+\\psf\Home\Documents\Files\School Files\Thesis\System\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1824.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.exe.config
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.exe
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.xml
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.pdb
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.exe
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.pdb
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.xml
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmAddCategory.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmCritical.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmExpire.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmFastandSlow.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmGenerateCode.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmInventory.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmLogIn.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmMain.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPassChange.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPassword.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductPricing.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductPricingView.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProducts.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductsView.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductsView2.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseConfirmation.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseIDView.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseOrder.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmQTY.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmReportsTab.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSalesReturn.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSalesReturnsLogs.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSeniorClient.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplier.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplierPO.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmUsers.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmUsersLog.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmVat.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.Resources.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPOS.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmViewReports.resources
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1107.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1184.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1320.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1373.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1824.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.626.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.804.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.822.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.942.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.975.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\chua family\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplierProducts.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.exe.config
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.exe
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.xml
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.pdb
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.exe
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.pdb
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.xml
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmAddCategory.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmCritical.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmExpire.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmFastandSlow.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmGenerateCode.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmInventory.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmLogIn.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmMain.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPassChange.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPassword.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductPricing.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductPricingView.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProducts.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductsView.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductsView2.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseConfirmation.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductSupplier.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseIDView.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseOrder.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmQTY.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmReportsTab.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSalesReturn.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSalesReturnsLogs.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSeniorClient.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplier.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplierPO.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmUsers.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmUsersLog.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmVat.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.Resources.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPOS.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplierProducts.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmViewReports.resources
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.read.1.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\ResGen.read.1.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1107.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1184.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1320.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1373.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.1824.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.626.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.804.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.822.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.942.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\GenerateResource.write.975.tlog
+\\psf\Home\Desktop\WinsPharmacy\WinsPharmacy\obj\x86\Debug\ResGen.write.1.tlog
+D:\WinsPharmacy\WinsPharmacy\bin\Debug\WinsPharmacy.exe.config
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.exe
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.xml
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.pdb
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.vbprojResolveAssemblyReference.cache
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmAddCategory.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmCritical.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmExpire.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmFastandSlow.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmGenerateCode.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmInventory.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmLogIn.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmMain.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPassChange.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPassword.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductPricing.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductPricingView.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProducts.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductsView.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmProductsView2.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseConfirmation.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseIDView.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPurchaseOrder.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmQTY.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmReportsTab.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSalesReturn.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSalesReturnsLogs.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSeniorClient.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplier.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplierPO.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmUsers.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmUsersLog.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmVat.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.Resources.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmPOS.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmSupplierProducts.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.frmViewReports.resources
+D:\WinsPharmacy\WinsPharmacy\obj\x86\Debug\WinsPharmacy.vbproj.GenerateResource.Cache
